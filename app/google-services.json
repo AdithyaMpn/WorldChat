@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "541410416943",
+    "firebase_url": "https://world-chat-5498a.firebaseio.com",
+    "project_id": "world-chat-5498a",
+    "storage_bucket": "world-chat-5498a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541410416943:android:e6645665b656e349bf69da",
+        "android_client_info": {
+          "package_name": "com.adithya.worldchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541410416943-s16e6uv53e1k6j3f5mflkoosjigh03sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Up6csDZDjSq9uue0urQe_IIvOlMp4sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541410416943-s16e6uv53e1k6j3f5mflkoosjigh03sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
